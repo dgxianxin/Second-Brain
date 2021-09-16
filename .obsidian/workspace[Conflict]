@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "21ea1c60d2903fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c2c74dc863ab36",
+        "type": "leaf",
+        "dimension": 49.64739069111424,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7e85f132ad2d5d24",
+        "type": "leaf",
+        "dimension": 50.35260930888576,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "028426047fa5a8c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "53992093c70372c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044a2010f05b12c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2a89d53c50e099e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "c3e492485219bbd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2405533aea32dd70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 190
+  },
+  "right": {
+    "id": "6923108715d19158",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7101fb0cedae4d7",
+        "type": "tabs",
+        "dimension": 34.68559837728195,
+        "children": [
+          {
+            "id": "0624bad31f0716a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          },
+          {
+            "id": "370d785425512f4a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TODO.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.06837606837607,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589
+                }
+              }
+            }
+          },
+          {
+            "id": "ac7c1207b12321ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "59d7ce541d7bd2dc",
+        "type": "tabs",
+        "dimension": 65.31440162271805,
+        "children": [
+          {
+            "id": "71e50271baa5c788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          },
+          {
+            "id": "abbcc8be460ae46a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "lastOpenFiles": [
+    "TODO.md",
+    "LYT Kit/_START HERE.md",
+    "Helo.md",
+    "Untitled.md",
+    "IMF v3/20200622 - IMF v3/040 Interests MOC.md",
+    "IMF v3/20200622 - IMF v3/Chinese Language MOC.md",
+    "IMF v3/20200622 - IMF v3/Setting Up IMF.md",
+    "Obsidian-Highlights.md",
+    "IMF v3/20200622 - IMF v3/_pHabits/Reps.md",
+    "Obsidian Help/Attachments/Pasted image.png"
+  ]
+}

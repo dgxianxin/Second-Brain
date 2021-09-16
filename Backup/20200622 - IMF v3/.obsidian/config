@@ -1,0 +1,316 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Word count": true,
+    "Command palette": true,
+    "Markdown format converter": true,
+    "Custom CSS": true,
+    "Zettelkasten prefixer": true,
+    "Daily notes": true,
+    "Page preview": true,
+    "Tag pane": true,
+    "Starred": true,
+    "Random note": true,
+    "Markdown format importer": true,
+    "Slides": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "1c578b9c5e7d3c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4fe93b3456521db",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Release Notes - IMF.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "90e57be4e95951b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Benefits of IMF.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "03e196f47b50d2c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IMF FAQ.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "24af79bedb98022d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IMF FAQ.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "10c87f7cc3d49e2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOCs are Dialectics.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2c0726ef9031b4d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IMF FAQ.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "824466b1208f8c5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How Should I Handle UIDs - Various Answers.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d0d62ebaf520d167",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IMF FAQ.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "hotkeys": {
+    "workspace:close": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "w"
+      }
+    ],
+    "workspace:close-others": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "w"
+      }
+    ],
+    "app:delete-file": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "Backspace"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "∂"
+      }
+    ],
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "a"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "1"
+      }
+    ],
+    "app:go-back": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "å"
+      },
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "å"
+      }
+    ],
+    "app:go-forward": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "ƒ"
+      },
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "ß"
+      }
+    ],
+    "editor:open-search": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "b"
+      }
+    ],
+    "editor:open-search-replace": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "f"
+      }
+    ],
+    "graph:open": [],
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": " "
+      }
+    ]
+  },
+  "sideDockWidth": {
+    "left": 387,
+    "right": 282
+  },
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "foldIndent": true,
+  "lastOpenFiles": [
+    "Release Notes - IMF.md",
+    "__START HERE.md",
+    "IMF MOC.md",
+    "Benefits of IMF.md",
+    "Books Example MOC.md"
+  ],
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "leftSidedock": {
+    "id": "4f88c443794a3546",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc633b6eb5f8a918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1edc6f7269adf07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dccd69eea8d1950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "773f477b0a23d613",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416
+  },
+  "rightSidedock": {
+    "id": "3daf49910a155d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "024e91f4a0db8bec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f6d28847a9b784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "7880bd61ca12675a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267
+  },
+  "defaultViewMode": "preview"
+}

@@ -1,0 +1,40 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "audio-recorder": true,
+    "open-with-default-app": true,
+    "slides": true,
+    "random-note": true,
+    "daily-notes": true,
+    "starred": true,
+    "page-preview": true,
+    "zk-prefixer": true,
+    "custom-css": true,
+    "templates": true,
+    "outline": true,
+    "translucency": false
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Tags",
+  "theme": "moonstone",
+  "trashOption": "system",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "sideDockWidth": {
+    "left": 205,
+    "right": 204
+  },
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}

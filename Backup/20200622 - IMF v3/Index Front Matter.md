@@ -1,0 +1,3 @@
+links: [[000 Index|Index]], [[005 Active MOC|Active]], [[010 Mind MOC| Mind]], [[Backup/20200622 - IMF v3/Concepts MOC|Concepts]], [[020 Body MOC|Body]], [[030 People MAP|People]], [[035 Places MOC|Places]], [[040 Interests MOC|Interests]], [[050 Quotes MOC|Quotes]], [[055 Figures MOC|Figures]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal ]], [[Backup/20200622 - IMF v3/080 Goals MOC|Goals]], [[085 Finances MOC|Finances]], [[Backup/20200622 - IMF v3/090 PKM MOC|PKM]], [[Backup/20200622 - IMF v3/095 Lists MOC|Lists]], [[100 Ideas MOC| Ideas]], [[Backup/20200622 - IMF v3/100 Projects MOC|Projects]]
+
+--- 

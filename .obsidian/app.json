@@ -1,0 +1,17 @@
+{
+  "obsidianCss": true,
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Tags",
+  "trashOption": "system",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "sideDockWidth": {
+    "left": 205,
+    "right": 204
+  },
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}
