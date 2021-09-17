@@ -11,7 +11,7 @@ If you're in a hurry, here's some quick places to dive in:
 - How to [[Create notes|create new notes]].
 - How to create [[Internal link|internal links]]
 - How to use [[Format your notes|Markdown]] to format your notes
-- How to [[embed files]], or embed other notes
+- How to [[Embed files]], or embed other notes
 - [[Keyboard shortcuts]]
 - How to [[Work with multiple notes|open multiple files side by side]]
 - The [[Command palette]] contains most of the commands you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing. 
@@ -20,7 +20,7 @@ If you're in a hurry, here's some quick places to dive in:
 
 If you want a more thorough introduction, including a bit about our philosophy, check out [[Obsidian]]. 
 
-And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic note taking]].
+And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic Note Taking]].
 
 
 ## Workflows
@@ -29,7 +29,7 @@ Obsidian is a tool that can be used in many ways, from a simple list of notes to
 
 Here are a few ways to get started: 
 
-If you want to just start taking notes, check out [[Basic note taking]]
+If you want to just start taking notes, check out [[Basic Note Taking]]
 
 If you already have a collection of notes in markdown format, just choose them for your Vault. Go to the Settings gear in the lower left, choose "Vault," and select the directory your notes are in. 
 
