@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "81c2c74dc863ab36",
+        "id": "987f2ee13d8a002d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -159,8 +159,9 @@
     "direction": "horizontal",
     "width": 252
   },
-  "active": "81c2c74dc863ab36",
+  "active": "987f2ee13d8a002d",
   "lastOpenFiles": [
+    "Main/Umami/Wunderbar, you're still on the list.md",
     "LYT Kit/010 Mindsets MOC.md",
     "Obsidian-Highlights.md",
     "Helo.md",
@@ -169,7 +170,6 @@
     "TODO.md",
     "LYT Kit/On the process of forging evergreen notes.md",
     "Daily Notes/2020-07-22.md",
-    "Template/Literature Review Template.md",
-    "LYT Kit/Habits MOC - Assembling Phase.md"
+    "Template/Literature Review Template.md"
   ]
 }
